@@ -7,5 +7,5 @@ import com.loan.main.model.*;
 
 public interface LoanTRepo extends JpaRepository<LoanT , Integer>{
 
-	public LoanT deleteByloanid(int loan_id);
+	
 }
