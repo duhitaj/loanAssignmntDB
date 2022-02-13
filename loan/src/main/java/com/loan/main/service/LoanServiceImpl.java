@@ -40,14 +40,7 @@ public class LoanServiceImpl implements LoanService {
 		
 	}
 
-	@Override
-	public void updateLoanDetails(LoanT loatT) {
-		// TODO Auto-generated method stub
-		
-		
-		
-		
-	}
+	
 
 	@Override
 	public void geLoanDetailsById(int loan_id, LoanResponseFields loanResponseFields) {
