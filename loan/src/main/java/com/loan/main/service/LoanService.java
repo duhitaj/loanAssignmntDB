@@ -12,8 +12,8 @@ import com.loan.main.responseBean.UserResponseFields;
 public interface LoanService {
 
 	void addLoan(LoanRequest loanRequest , LoanResponseFields loanResponseFields);
-	void updateLoanDetails(LoanT loatT);
+	
 	void geLoanDetailsById(int loan_id,LoanResponseFields loanResponseFields);
-	//public void deleteloanid(Integer loan_id,LoanResponseFields loanResponseFields);
+	
 	
 }
