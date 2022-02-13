@@ -12,5 +12,5 @@ public interface LoanDataTransformation {
 
 	void getLoanDetails(Integer loan_id, LoanResponseFields loanResponseFields );
 	
-	//public LoanT deleteloanid(Integer loan_id);
+	
 }
