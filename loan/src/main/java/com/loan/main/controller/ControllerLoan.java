@@ -64,8 +64,6 @@ public class ControllerLoan {
 	}
 	
 	
-	//@PutMapping(value = "update/{loanid}" , produces ="application/json" ,consumes="application/json")
-	//LoanResponse 
 	
 	
 	
