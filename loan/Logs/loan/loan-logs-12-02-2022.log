@@ -1,0 +1,32 @@
+[13-02-2022 00:03:31.031][INFO ][com.zaxxer.hikari.HikariDataSource][Thread-186][350]HikariPool-47 - Shutdown initiated...
+[13-02-2022 00:03:31.031][INFO ][com.zaxxer.hikari.HikariDataSource][Thread-186][352]HikariPool-47 - Shutdown completed.
+[13-02-2022 00:03:31.031][INFO ][org.springframework.boot.StartupInfoLogger][restartedMain][55]Starting LoanApplication using Java 15 on DUhiTA with PID 17556 (C:\Users\Dell\Downloads\assignment\loan\loan\target\classes started by Dell in C:\Users\Dell\Downloads\assignment\loan\loan)
+[13-02-2022 00:03:31.031][INFO ][org.springframework.boot.SpringApplication][restartedMain][637]No active profile set, falling back to default profiles: default
+[13-02-2022 00:03:32.032][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Initializing ProtocolHandler ["http-nio-2802"]
+[13-02-2022 00:03:32.032][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting service [Tomcat]
+[13-02-2022 00:03:32.032][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting Servlet engine: [Apache Tomcat/9.0.56]
+[13-02-2022 00:03:32.032][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Initializing Spring embedded WebApplicationContext
+[13-02-2022 00:03:33.033][INFO ][org.hibernate.jpa.internal.util.LogHelper][restartedMain][31]HHH000204: Processing PersistenceUnitInfo [name: default]
+[13-02-2022 00:03:33.033][INFO ][com.zaxxer.hikari.HikariDataSource][restartedMain][110]HikariPool-48 - Starting...
+[13-02-2022 00:03:33.033][INFO ][com.zaxxer.hikari.HikariDataSource][restartedMain][123]HikariPool-48 - Start completed.
+[13-02-2022 00:03:33.033][INFO ][org.hibernate.dialect.Dialect][restartedMain][175]HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+[13-02-2022 00:03:33.033][INFO ][org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator][restartedMain][52]HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[13-02-2022 00:03:33.033][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting ProtocolHandler ["http-nio-2802"]
+[13-02-2022 00:03:33.033][INFO ][org.springframework.boot.StartupInfoLogger][restartedMain][61]Started LoanApplication in 1.986 seconds (JVM running for 9684.038)
+[13-02-2022 00:04:24.024][INFO ][com.zaxxer.hikari.HikariDataSource][Thread-190][350]HikariPool-48 - Shutdown initiated...
+[13-02-2022 00:04:24.024][INFO ][com.zaxxer.hikari.HikariDataSource][Thread-190][352]HikariPool-48 - Shutdown completed.
+[13-02-2022 00:04:24.024][INFO ][org.springframework.boot.StartupInfoLogger][restartedMain][55]Starting LoanApplication using Java 15 on DUhiTA with PID 17556 (C:\Users\Dell\Downloads\assignment\loan\loan\target\classes started by Dell in C:\Users\Dell\Downloads\assignment\loan\loan)
+[13-02-2022 00:04:24.024][INFO ][org.springframework.boot.SpringApplication][restartedMain][637]No active profile set, falling back to default profiles: default
+[13-02-2022 00:04:25.025][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Initializing ProtocolHandler ["http-nio-2802"]
+[13-02-2022 00:04:25.025][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting service [Tomcat]
+[13-02-2022 00:04:25.025][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting Servlet engine: [Apache Tomcat/9.0.56]
+[13-02-2022 00:04:25.025][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Initializing Spring embedded WebApplicationContext
+[13-02-2022 00:04:25.025][INFO ][org.hibernate.jpa.internal.util.LogHelper][restartedMain][31]HHH000204: Processing PersistenceUnitInfo [name: default]
+[13-02-2022 00:04:25.025][INFO ][com.zaxxer.hikari.HikariDataSource][restartedMain][110]HikariPool-49 - Starting...
+[13-02-2022 00:04:25.025][INFO ][com.zaxxer.hikari.HikariDataSource][restartedMain][123]HikariPool-49 - Start completed.
+[13-02-2022 00:04:25.025][INFO ][org.hibernate.dialect.Dialect][restartedMain][175]HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+[13-02-2022 00:04:25.025][INFO ][org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator][restartedMain][52]HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[13-02-2022 00:04:26.026][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting ProtocolHandler ["http-nio-2802"]
+[13-02-2022 00:04:26.026][INFO ][org.springframework.boot.StartupInfoLogger][restartedMain][61]Started LoanApplication in 2.185 seconds (JVM running for 9736.845)
+[13-02-2022 00:04:31.031][INFO ][com.zaxxer.hikari.HikariDataSource][RMI TCP Connection(171)-127.0.0.1][350]HikariPool-49 - Shutdown initiated...
+[13-02-2022 00:04:31.031][INFO ][com.zaxxer.hikari.HikariDataSource][RMI TCP Connection(171)-127.0.0.1][352]HikariPool-49 - Shutdown completed.
